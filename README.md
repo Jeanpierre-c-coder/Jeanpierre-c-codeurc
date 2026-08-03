@@ -45,5 +45,5 @@
   
 ### Github stats
 
- [![GitHub Streak](https://streak-stats.jeanpierre-c-coder.com?user=jeanpierre-c-coder&theme=radical&show_icons=true&hide_border=true&count_private=true))](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeanpierre-c-coder)](https://git.io/streak-stats)
 
